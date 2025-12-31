@@ -4,3 +4,5 @@ config.py
 !AAAI20/info.json
 !testfiles/*
 temp_*.*
+
+CLAUDE.md

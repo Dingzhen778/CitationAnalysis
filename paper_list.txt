@@ -1,0 +1,49 @@
+Cocoast: representing source code via hierarchical splitting and reconstruction of abstract syntax trees
+3687619868793326200
+CoSQA+: Enhancing code search dataset with matching code
+9839818614831361905
+Repotransbench: A real-world benchmark for repository-level code translation
+14704539274476622459
+Cast: Enhancing code summarization with hierarchical splitting and reconstruction of abstract syntax trees
+15371312536478317278
+Code completion by modeling flattened abstract syntax trees as graphs
+11759751834977070482
+Accelerating code search with deep hashing and code classification
+4830519139899403922
+On the evaluation of neural code summarization
+5451500051021519060
+603434050006244887
+Unixcoder: Unified cross-modal pre-training for code representation
+1206419703297717913
+Revisiting code search in a two-stage paradigm
+3012181080873143726
+Unveiling the black box of PLMs with semantic anchors: towards interpretable neural semantic parsing
+11701094388444957258
+Cocosoda: Effective contrastive learning for code search
+13907339420707048649
+Towards an understanding of large language models in software engineering tasks
+17212821053474009642
+You augment me: Exploring chatgpt-based data augmentation for semantic code search
+7602292240739277394
+Sparsecoder: Identifier-aware sparse transformer for file-level code summarization
+2910033700520177407
+Tackling long code search with splitting, encoding, and aggregating
+16866306558033545506
+Rlcoder: Reinforcement learning for repository-level code completion
+4181933848927702237
+When to stop? towards efficient code generation in llms with excess token prevention
+11167719322675688880
+Humanevo: An evolution-aware benchmark for more realistic evaluation of repository-level code generation
+9149693920403585268
+SECRET: Towards Scalable and Efficient Code Retrieval via Segmented Deep Hashing
+6564544196361859005
+Llm hallucinations in practical code generation: Phenomena, mechanism, and mitigation
+9314563279130477957
+Beyond functional correctness: Investigating coding style inconsistencies in large language models
+8607300566832583542
+Omnigirl: A multilingual and multimodal benchmark for github issue resolution
+17721785651242552030
+What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond
+3808884084167061539
+Top General Performance= Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark
+566758030871592019
